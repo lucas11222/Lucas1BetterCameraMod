@@ -1,10 +1,10 @@
-# YizziCamModV2 												[![Github All Releases](https://img.shields.io/github/downloads/Yizzii/YizziCamModV2/total.svg)]() 
+# Lucas11BetterCameramod												[![Github All Releases](https://img.shields.io/github/downloads/Yizzii/YizziCamModV2/total.svg)]() 
 
 Camera Mod with in game UI!
 
 ![](https://github.com/Yizzii/YizziCamModV2/blob/main/cammod.gif)
 
-### *Features:*
+### *Features aready in:*
 * Monitor UI (tab to enable, shitty OnGUI but im lazy so cope)
 * Freecam with gamepad support
 * Spectator with ajustable offset (and a toggle to control it with wasd)
@@ -14,6 +14,8 @@ Camera Mod with in game UI!
 * Grabbable Handles (you can only grab right side with right hand and left side with left hand)
 * Green Screen (in city)
 * Adjustable FOV, Nearclip and smoothing
+
+### *Features:*
 
 ### *Controls:*
 * disable first person view by pressing X/Y
