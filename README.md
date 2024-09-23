@@ -1,4 +1,5 @@
-# Lucas11BetterCameramod												[![Github All Releases](https://img.shields.io/github/downloads/Yizzii/YizziCamModV2/total.svg)]() 
+# Lucas11BetterCameramod												[![Github All Releases](https://img.shields.io/github/deployments/lucas11222/LucasBetterCameraMod/:environment
+)]() 
 
 Camera Mod with in game UI!
 
