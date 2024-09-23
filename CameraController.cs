@@ -69,10 +69,12 @@ namespace YizziCamModV2
 
         public void YizziStart()
         {
+            // esto es un sufrimiento....
             this.gameObject.AddComponent<InputManager>().gameObject.AddComponent<UI>();
             ColorScreenGO = LoadBundle("ColorScreen", "YizziCamModV2.Assets.colorscreen");
             CameraTablet = LoadBundle("CameraTablet", "YizziCamModV2.Assets.yizzicamera");
             FirstPersonCameraGO = GorillaTagger.Instance.mainCamera;
+            // a donde casa ESOOOOOOOOOOOOOOOOOOOO
             ThirdPersonCameraGO = GameObject.Find("Player Objects/Third Person Camera/Shoulder Camera");
             CMVirtualCameraGO = GameObject.Find("Player Objects/Third Person Camera/Shoulder Camera/CM vcam1");
             TPVBodyFollower = GorillaTagger.Instance.bodyCollider.gameObject;

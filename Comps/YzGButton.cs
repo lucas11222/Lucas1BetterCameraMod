@@ -1,6 +1,7 @@
 ﻿using UnityEngine;
 #pragma warning disable CS0618
 namespace YizziCamModV2.Comps
+// ok no entiendo ni leiendo la funcion (ohh ha lo entiendo xd)
 {
     class YzGButton : MonoBehaviour
     {
@@ -30,6 +31,9 @@ namespace YizziCamModV2.Comps
                         CameraController.Instance.MainPage.SetActive(true);
                         CameraController.Instance.MiscPage.SetActive(false);
                         break;
+                    case "Github":
+                            Application.OpenURL("https://github.com/lucas11222/Lucas1BetterCameraMod/tree/main");
+                            CameraController.Instance.openedurl = true;
                     case "ControlsButton":
                         if (!CameraController.Instance.openedurl)
                         {
